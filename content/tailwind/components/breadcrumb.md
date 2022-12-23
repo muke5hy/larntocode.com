@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Tailwind CSS Breadcrumbs - Flowbite
-description: Show the location of the current page in a hierarchical structure using the Tailwind CSS breadcrumb components 
+description: Show the location of the current page in a hierarchical structure using the Tailwind CSS breadcrumb components
 group: components
 toc: true
 
@@ -11,7 +11,7 @@ next: Buttons
 nextLink: components/buttons/
 ---
 
-The breadcrumb component is an important part of any website or application that can be used to show the current location of a page in a hierarchical structure of pages. 
+The breadcrumb component is an important part of any website or application that can be used to show the current location of a page in a hierarchical structure of pages.
 
 Flowbite includes two styles of breadcrumb elements, one that has a transparent background and a few more that come with a background in different colors.
 
@@ -20,6 +20,7 @@ Flowbite includes two styles of breadcrumb elements, one that has a transparent 
 Use the following breadcrumb example to show the hierarchical structure of pages.
 
 {{< example id="default-breadcrumb-example" github="components/breadcrumb.md" show_dark=true >}}
+
 <nav class="flex" aria-label="Breadcrumb">
   <ol class="inline-flex items-center space-x-1 md:space-x-3">
     <li class="inline-flex items-center">
@@ -46,9 +47,10 @@ Use the following breadcrumb example to show the hierarchical structure of pages
 
 ## Solid background
 
-You can alternatively also use the breadcrumb components with a solid background. 
+You can alternatively also use the breadcrumb components with a solid background.
 
 {{< example id="breadcrumb-background-example" github="components/breadcrumb.md" show_dark=true >}}
+
 <!-- Breadcrumb -->
 <nav class="flex px-5 py-3 text-gray-700 border border-gray-200 rounded-lg bg-gray-50 dark:bg-gray-800 dark:border-gray-700" aria-label="Breadcrumb">
   <ol class="inline-flex items-center space-x-1 md:space-x-3">
@@ -72,4 +74,4 @@ You can alternatively also use the breadcrumb components with a solid background
     </li>
   </ol>
 </nav>
-{{< /example >}}                
+{{< /example >}}
