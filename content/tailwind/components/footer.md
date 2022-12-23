@@ -19,7 +19,7 @@ Use these footer sections coded with the utility classes from Tailwind CSS and c
 
 Use this footer component to show a copyright notice and some helpful website links.
 
-{{<example id="default-footer-example" github="components/footer.md" class="p-2" show_dark=true>}}
+{{< example id="default-footer-example" github="components/footer.md" class="p-2" show_dark=true >}}
 
 <footer class="p-4 bg-white rounded-lg shadow md:flex md:items-center md:justify-between md:p-6 dark:bg-gray-800">
     <span class="text-sm text-gray-500 sm:text-center dark:text-gray-400">© 2022 <a href="{{< param homepage >}}/" class="hover:underline">Flowbite™</a>. All Rights Reserved.
@@ -45,7 +45,7 @@ Use this footer component to show a copyright notice and some helpful website li
 
 Use this component to show your brand's logo, a few website links and the copyright notice on a second row.
 
-{{<example id="footer-logo-example" github="components/footer.md" class="p-2" show_dark=true> }}
+{{< example id="footer-logo-example" github="components/footer.md" class="p-2" show_dark=true >}}
 
 <footer class="p-4 bg-white rounded-lg shadow md:px-6 md:py-8 dark:bg-gray-900">
     <div class="sm:flex sm:items-center sm:justify-between">
