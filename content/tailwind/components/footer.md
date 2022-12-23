@@ -45,7 +45,7 @@ Use this footer component to show a copyright notice and some helpful website li
 
 Use this component to show your brand's logo, a few website links and the copyright notice on a second row.
 
-{{< example id="footer-logo-example" github="components/footer.md" class="p-2" show_dark=true >}}
+{{<example id="footer-logo-example" github="components/footer.md" class="p-2" show_dark=true> }}
 
 <footer class="p-4 bg-white rounded-lg shadow md:px-6 md:py-8 dark:bg-gray-900">
     <div class="sm:flex sm:items-center sm:justify-between">
