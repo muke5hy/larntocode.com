@@ -1,0 +1,91 @@
+- title: Getting started
+  pages:
+    - title: Introduction
+    - title: Quickstart
+      slug: quickstart
+      new: true
+    - title: Vue
+      new: true
+
+- title: Customize
+  pages:
+    - title: Configuration
+    - title: Dark mode
+    - title: Theming
+    - title: Colors
+    - title: Icons
+    - title: Optimization
+
+- title: Components
+  pages:
+    - title: Alerts
+    - title: Accordion
+    - title: Avatar
+    - title: Badge
+    - title: Breadcrumb
+    - title: Buttons
+    - title: Button Group
+    - title: Card
+    - title: Carousel
+    - title: Dropdowns
+      new: true
+    - title: Forms
+    - title: List Group
+    - title: Typography
+    - title: Modal
+    - title: Tabs
+    - title: Navbar
+    - title: Mega menu
+      new: true
+    - title: Footer
+    - title: Sidebar
+    - title: Drawer
+      new: true
+    - title: Skeleton
+      new: true
+    - title: Pagination
+    - title: Speed Dial
+      new: true
+    - title: Rating
+    - title: Timeline
+    - title: Video
+    - title: KBD
+      new: true
+    - title: Progress
+    - title: Popover
+      new: true
+    - title: Tables
+      new: true
+    - title: Spinner
+    - title: Toast
+    - title: Tooltips
+
+- title: Forms
+  pages:
+    - title: Input Field
+    - title: File Input
+    - title: Search Input
+    - title: Select
+    - title: Textarea
+    - title: Checkbox
+      new: true
+    - title: Radio
+      new: true
+    - title: Toggle
+    - title: Range
+    - title: Floating Label
+
+- title: Typography
+  pages:
+    - title: Headings
+    - title: Paragraphs
+    - title: Blockquote
+    - title: Images
+    - title: Lists
+    - title: Links
+    - title: Text
+    - title: HR
+
+- title: Plugins
+  pages:
+    - title: Datepicker
