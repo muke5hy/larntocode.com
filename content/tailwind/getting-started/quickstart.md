@@ -6,9 +6,9 @@ group: getting-started
 toc: true
 
 previous: Introduction
-previousLink: getting-started/introduction/
+previousLink: tailwind/getting-started/introduction/
 next: React
-nextLink: getting-started/react/
+nextLink: tailwind/getting-started/react/
 ---
 
 Flowbite is a library of components built on top of the utility-classes from Tailwind CSS and it also includes a JavaScript file that makes interactive elements works, such as modals, dropdowns, and more. Learn how to get started by following this quickstart guide.
@@ -75,16 +75,6 @@ Flowbite works with the 2.x version of Tailwind CSS.
 
 Feel free to upgrade to version 3 of Tailwind CSS as there are no breaking changes when using the components from Flowbite.
 
-<div class="mt-8 -mb-5">
-  {{< requires_react >}}
-</div>
-
-## React
-
-If you're using React as a front-end library you can also use the components from Flowbite including the interactive ones such as the dropdowns, modals, and tooltips as long as you install Tailwind CSS and Flowbite in an existing project.
-
-Learn how to <a href="{{< ref "tailwind/getting-started/react" >}}">install Tailwind CSS and Flowbite with React</a>.
-
 ## Next.js
 
 If you're using React as a front-end library and Next.js as a framework you can also use the components from Flowbite React such as the modals, dropdowns, and navbars to speed up your development time coupled with the utility classes from Tailwind CSS.
@@ -92,56 +82,8 @@ If you're using React as a front-end library and Next.js as a framework you can 
 Learn how to <a href="{{< ref "tailwind/getting-started/next-js" >}}">install Tailwind CSS and Flowbite with Next.js and React</a>.
 
 <div class="mt-8 -mb-5">
-  {{< requires_vue >}}
-</div>
-
-## Vue.js
-
-The components from Flowbite can also be used any new or existing Vue 3 projects as long as you install Tailwind CSS and Flowbite.
-
-Learn how to <a href="{{< ref "tailwind/getting-started/vue" >}}">install Tailwind CSS and Flowbite with Vue.js</a>.
-
-<div class="mt-8 -mb-5">
-  {{< requires_laravel >}}
-</div>
-
-## Laravel
-
-If you're running a Laravel application you can easily set up Tailwind CSS and Flowbite and start developing user interfaces based on the utility-first classes and components.
-
-Learn how to <a href="{{< ref "tailwind/getting-started/laravel" >}}">install Tailwind CSS and Flowbite with Laravel</a>.
-
-<div class="mt-8 -mb-5">
-  {{< requires_svelte >}}
-</div>
-
-## Svelte
-
-If you're using a Svelte application you can install a standalone Flowbite Svelte library and start developing modern websites using the components from Flowbite and the utility classes from Tailwind CSS.
-
-Learn how to <a href="{{< ref "tailwind/getting-started/svelte" >}}">install Tailwind CSS and Flowbite with Svelte</a>.
-
-<div class="mt-8 -mb-5">
   {{< requires_ruby >}}
 </div>
-
-## Ruby on Rails
-
-If you're using a Ruby on Rails project you can install Tailwind CSS with Flowbite and start building web pages using the utility-first classes and the interactive UI compnonents from Flowbite.
-
-Learn how to <a href="{{< ref "tailwind/getting-started/rails" >}}">install Tailwind CSS and Flowbite with Ruby on Rails</a>.
-
-## Django
-
-Check out the Django integration guide with Tailwind CSS and Flowbite to set up all technologies and start developing even faster using the UI components from Flowbite.
-
-Learn how to <a href="{{< ref "tailwind/getting-started/django" >}}">install Tailwind CSS and Flowbite with Django</a>.
-
-## Flask
-
-Check out the Flask integration guide with Tailwind CSS and Flowbite to set up all technologies and start developing with a micro framework combined with the UI components from Flowbite.
-
-Learn how to <a href="{{< ref "tailwind/getting-started/flask" >}}">install Tailwind CSS and Flowbite with Flask</a>.
 
 ## Github repository
 

@@ -122,16 +122,6 @@ The components from Flowbite are first conceptualized and designed in Figma usin
 Learn more by checking out <a href="{{< param homepage >}}/figma/">Flowbite's Figma design system</a> and start designing your Tailwind CSS projects before actually coding them.
 
 <div class="mt-8 -mb-5">
-  {{< requires_react >}}
-</div>
-
-## React
-
-If you're using React as a front-end library you can also use the components from Flowbite including the interactive ones such as the dropdowns, modals, and tooltips as long as you install Tailwind CSS and Flowbite in an existing project.
-
-Learn how to <a href="{{< ref "tailwind/getting-started/react" >}}">install Tailwind CSS and Flowbite with React</a>.
-
-<div class="mt-8 -mb-5">
   {{< requires_nextjs >}}
 </div>
 
@@ -140,90 +130,3 @@ Learn how to <a href="{{< ref "tailwind/getting-started/react" >}}">install Tail
 If you're using React as a front-end library and Next.js as a framework you can also use the components from Flowbite React such as the modals, dropdowns, and navbars to speed up your development time coupled with the utility classes from Tailwind CSS.
 
 Learn how to <a href="{{< ref "tailwind/getting-started/next-js" >}}">install Tailwind CSS and Flowbite with Next.js and React</a>.
-
-<div class="mt-8 -mb-5">
-  {{< requires_vue >}}
-</div>
-
-## Vue.js
-
-The components from Flowbite can also be used any new or existing Vue 3 projects as long as you install Tailwind CSS and Flowbite.
-
-Learn how to <a href="{{< ref "tailwind/getting-started/vue" >}}">install Tailwind CSS and Flowbite with Vue.js</a>.
-
-<div class="mt-8 -mb-5">
-  {{< requires_laravel >}}
-</div>
-
-## Laravel
-
-If you're running a Laravel application you can easily set up Tailwind CSS and Flowbite and start developing user interfaces based on the utility-first classes and components.
-
-Learn how to <a href="{{< ref "tailwind/getting-started/laravel" >}}">install Tailwind CSS and Flowbite with Laravel</a>.
-
-<div class="mt-8 -mb-5">
-  {{< requires_svelte >}}
-</div>
-
-## Svelte
-
-If you're using a Svelte application you can install a standalone Flowbite Svelte library and start developing modern websites using the components from Flowbite and the utility classes from Tailwind CSS.
-
-Learn how to <a href="{{< ref "tailwind/getting-started/svelte" >}}">install Tailwind CSS and Flowbite with Svelte</a>.
-
-<div class="mt-8 -mb-5">
-  {{< requires_ruby >}}
-</div>
-
-## Ruby on Rails
-
-If you're using a Ruby on Rails project you can install Tailwind CSS with Flowbite and start building web pages using the utility-first classes and the interactive UI compnonents from Flowbite.
-
-Learn how to <a href="{{< ref "tailwind/getting-started/rails" >}}">install Tailwind CSS and Flowbite with Ruby on Rails</a>.
-
-<div class="mt-8 -mb-5">
-  {{< requires_django >}}
-</div>
-
-## Django
-
-Check out the Django integration guide with Tailwind CSS and Flowbite to set up all technologies and start developing even faster using the UI components from Flowbite.
-
-Learn how to <a href="{{< ref "tailwind/getting-started/django" >}}">install Tailwind CSS and Flowbite with Django</a>.
-
-<div class="mt-8 -mb-5">
-  {{< requires_flask >}}
-</div>
-
-## Flask
-
-Check out the Flask integration guide with Tailwind CSS and Flowbite to set up all technologies and start developing with a micro framework combined with the UI components from Flowbite.
-
-Learn how to <a href="{{< ref "tailwind/getting-started/flask" >}}">install Tailwind CSS and Flowbite with Flask</a>.
-
-## Pro version
-
-If you want to take your Tailwind development workflow to the next level you can check out the [pro version of Flowbite]({{< param homepage >}}/pro/) which includes fully coded pages and layouts for application, marketing, and e-commerce user interfaces.
-
-## Licensing
-
-The library of components from Flowbite is open source under the [MIT License]({{< ref "tailwind/getting-started/license" >}}).
-
-## Contributions
-
-Flowbite is an open source library under the MIT license and anyone who would like to contribute to the codebase or design is welcome to do so.
-
-Please reach out to us via the <a href="https://github.com/themesberg/flowbite">official Github repository</a> and the main development team will get in touch as soon as possible.
-
-## Discord community
-
-Feel free to join our <a href="https://discord.gg/4eeurUVvTy" rel="nofollow">community on Discord</a> to receive help, contribute to the project, or just discuss about Flowbite, Tailwind CSS, and web development in general.
-
-## YouTube channel
-
-You can also subscribe to the official [Flowbite YouTube channel](https://www.youtube.com/channel/UC_Ms4V2kYDsh7F_CSsHyQ6A) to view tutorials on how you can use the Flowbite ecosystem to design and build websites.
-
-## Authors
-
-- <a href="https://twitter.com/zoltanszogyenyi">Zoltán Szőgyényi</a> (web developer)
-- <a href="https://twitter.com/RobertTanislav">Robert Tanislav</a> (web designer)
