@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Flowbite - Tailwind CSS component library
+title: Tailwind CSS components
 description: Get started with the most popular open-source library of interactive UI components built with the utility classes from Tailwind CSS
 group: getting-started
 toc: true
@@ -11,14 +11,6 @@ nextLink: golang/getting-started/quickstart/
 ---
 
 ## Introduction
-
-Flowbite is an open-source library of UI components based on the utility-first Tailwind CSS framework featuring dark mode support, a Figma design system, and more.
-
-It includes all of the commonly used components that a website requires, such as buttons, dropdowns, navigation bars, modals, but also some more advanced interactive elements such as datepickers.
-
-All of the elements are built using the utility classes from Tailwind CSS and vanilla JavaScript.
-
-<iframe width="100%" class="my-8 rounded-lg shadow-lg yt-video" src="https://www.youtube.com/embed/KaLxCiilHns" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Here's a quick overview of the Flowbite ecosystem including the open source Tailwind components library, the Figma design files, and the pro version.
 
